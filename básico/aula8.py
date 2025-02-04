@@ -1,0 +1,5 @@
+nome = input("Qual é o seu nome? ")
+numero= input (" digite um numero: ")
+numero_1 = int(input('de um valor '))
+numero_2 = int(input('de um valor '))
+print(f"O seu nome é {nome} e sua idade é {numero} e 4+4 é {numero_1 + numero_2}" )
